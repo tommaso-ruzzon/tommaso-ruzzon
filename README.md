@@ -2,7 +2,7 @@ Hi! My name is Tommaso Ruzzon.
 
 I am particularly interested in the applications of Machine Learning and Natural Language Processing in Economics. 
 I have extensive experience in data analysis and data visualization using R and Python. 
-Currently, I am expanding my knowledge of SQL and of Business Intelligence softwares such as Tableau.
+Currently, I am expanding my knowledge of SQL and Business Intelligence softwares such as Tableau.
 
 I hope my repositories below effectively showcase my work:
 
