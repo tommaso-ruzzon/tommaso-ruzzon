@@ -6,5 +6,5 @@ Currently, I am expanding my knowledge of SQL and of Business Intelligence softw
 
 I hope my repositories below can properly showcase my work:
 
-honour_politeness: This is a project I developed from start to finish, investigating how politeness on Twitter is influenced by historical cultures of honor in the US South.
-political_speeches: This repository contains links to Colab notebooks that I created as part of a larger project focused on the analysis and classification of German political speeches and surveys.
+- honour_politeness: This is a project I developed from start to finish, investigating how politeness on Twitter is influenced by historical cultures of honor in the US South.
+- political_speeches: This repository contains links to Colab notebooks that I created as part of a larger project focused on the analysis and classification of German political speeches and surveys.
