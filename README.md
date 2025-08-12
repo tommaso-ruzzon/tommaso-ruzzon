@@ -1,6 +1,6 @@
 Hi! My name is Tommaso Ruzzon.
 
-I am particularly interested in the applications of Machine Learning and Natural Language Processing in Economics. 
+I am a Data Scientist working with Machine Learning and Natural Language Processing. 
 I have extensive experience in data analysis and data visualization using Python, R and SQL.
 Currently, I am expanding my knowledge in Business Intelligence softwares such as Tableau.
 
