@@ -1,10 +1,7 @@
-Hi! My name is Tommaso Ruzzon.
+Hi, I’m Tommaso Ruzzon.
+I’m a Data Scientist working in ML and AI Engineering, with a background in quantitative economics and applied NLP.
 
-I am a Data Scientist working with Machine Learning and Natural Language Processing. 
-I have extensive experience in data analysis and data visualization using Python, R and SQL.
-Currently, I am expanding my knowledge in Business Intelligence softwares such as Tableau.
-
-I hope my repositories below effectively showcase my work:
-
-- honour_politeness: This is a project I developed from start to finish, investigating how politeness on Twitter is influenced by historical cultures of honor in the US South.
-- political_speeches: This repository contains links to Colab notebooks that I created as part of a larger project focused on the analysis and classification of German political speeches and surveys.
+Most of my professional work lives in company-owned, private repositories.
+The public repos here mainly showcase university and research projects, including:
+- honour_politeness — an end-to-end research project that looks at how politeness on Twitter is influenced by historical cultures of honor in the US South.
+- political_speeches — NLP analyses of German political speeches and survey data (Colab notebooks)
