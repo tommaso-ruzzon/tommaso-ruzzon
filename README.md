@@ -1,5 +1,5 @@
 Hi, I’m Tommaso Ruzzon.
-I’m a Data Scientist working in ML and AI Engineering, with a background in quantitative economics and applied NLP.
+I’m a Data Scientist working in ML and AI Engineering, with a Master's Degree in Quantitative Economics from LMU Munich.
 
 Most of my professional work lives in company-owned, private repositories.
 The public repos here mainly showcase personal projects and University research projects, including:
